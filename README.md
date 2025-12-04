@@ -1,0 +1,1 @@
+A machine learning project that predicts students' mental health history using logistic regression on a dataset of 1,100 students, analyzing 20+ stress-related factors including psychological, physical, environmental, and academic indicators to achieve ~76% prediction accuracy.
